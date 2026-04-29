@@ -2,7 +2,7 @@
 
 ![Logo](FoodLogisticLogo.png)
 
-Autors: [nom dels components del grup]
+Autors: Pau Martínez i Biel Pérez
 
 ## Descripció
 
